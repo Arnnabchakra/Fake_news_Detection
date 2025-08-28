@@ -55,23 +55,5 @@ The dataset used in this project contains a collection of news articles labeled 
 - `scripts/`: Python scripts for various functions and utilities used in the project.
 - `README.md`: This file, providing an overview of the project.
 
-## Usage
-
-To run the project:
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/alihassanml/fake-news-detection.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd fake-news-detection
-   ```
-3. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Open and run the Jupyter notebooks in the `notebooks/` directory to explore the project.
-
 
 Feel free to contribute to this project by opening issues or pull requests.
